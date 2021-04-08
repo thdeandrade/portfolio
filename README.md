@@ -15,6 +15,5 @@ Seja bem vindo ao meu portfolio!
 
 ## **Projetos:**
 
-(Em construção...)
-
+* **[Análise dos dados do Airbnb - Málaga/ES](https://bit.ly/3t82pLq)**
 ---
