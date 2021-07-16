@@ -16,5 +16,5 @@ Seja bem vindo ao meu portfolio!
 ## **Projetos:**
 
 * **[Análise dos dados do Airbnb - Málaga/ES](https://bit.ly/3t82pLq)**
-* **Analisando a Violência no Rio de Janeiro** (Em construção...)
+* **[Analisando a Violência no Rio de Janeiro](https://bit.ly/3wHnfCj)**
 ---
