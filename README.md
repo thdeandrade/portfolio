@@ -10,7 +10,8 @@ Todos os meus dias são resumidos em dados. Como analista, minha principal carac
 Seja bem vindo ao meu portfolio!
 
 ## **Links:**
-* [Linkedin](https://www.linkedin.com/in/thiago-aguas/)
+* [LinkedIn](https://www.linkedin.com/in/thiago-aguas/)
+* [Instagram](https://www.instagram.com/thiago.aguas/)
 * [Medium](https://www.medium.com/@thdeandrade)
 
 ## **Projetos:**
