@@ -18,4 +18,5 @@ Seja bem vindo ao meu portfolio!
 
 * **[Análise dos dados do Airbnb - Málaga/ES](https://bit.ly/3t82pLq)**
 * **[Analisando a Violência no Rio de Janeiro](https://bit.ly/3iqmEzU)**
+* **[Avaliação da covid-19 no Brasil e no Mundo](https://bit.ly/3iOgxGF)**
 ---
